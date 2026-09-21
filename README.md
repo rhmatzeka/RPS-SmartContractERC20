@@ -40,3 +40,7 @@ forge script script/BasedToken.s.sol --rpc-url <base_sepolia_rpc_url> --private-
 | `rpsgame-contracterc20/test/BasedToken.t.sol` | Tests |
 | `rpsgame-contracterc20/script/BasedToken.s.sol` | Deploy script |
 | `rpsgame-contracterc20/broadcast/` | Records of past deployments |
+
+## License
+
+Released under the [MIT License](LICENSE).
